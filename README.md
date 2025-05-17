@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **pandian0114@gmail.com**
 
-- ⚡ She’s the load balancer to my life, keeping everything in harmony! ❤️
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
