@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm C Dhineshpandian</h1>
-<h3 align="center">👨🏻‍🎓4th-year student | DevOps & Cloud Engineer | Passionate about Automation, Scalability, and Cloud-native solutions.</h3>
+<h3 align="center"> DevOps & Cloud Engineer | Passionate about Automation, Scalability, and Cloud-native solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dhinesh-0309&label=Profile%20views&color=0e75b6&style=flat" alt="dhinesh-0309" /> </p>
 
